@@ -1,0 +1,10 @@
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\bin\Debug\Meteoroloska_Stanica.exe.config
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\bin\Debug\Meteoroloska_Stanica.exe
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\bin\Debug\Meteoroloska_Stanica.pdb
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.csprojAssemblyReference.cache
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.Meteoroloska_stanica.resources
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.Properties.Resources.resources
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.csproj.GenerateResource.cache
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.csproj.CoreCompileInputs.cache
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.exe
+C:\Users\Bogdanovic\Desktop\Meteoroloska_Stanica\Meteoroloska_Stanica\obj\Debug\Meteoroloska_Stanica.pdb
